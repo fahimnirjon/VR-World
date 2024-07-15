@@ -1,4 +1,3 @@
-import React from "react";
 import { IoClose } from "react-icons/io5";
 
 const PopupPlayer = ({ isPlay, togglePlay }) => {
@@ -22,7 +21,7 @@ const PopupPlayer = ({ isPlay, togglePlay }) => {
                 <iframe
                   width="100%"
                   height="315"
-                  src="https://www.youtube.com/embed/skz6VDfm03I?si=ZE0mBi5atyVsp_0C"
+                  src="https://www.youtube.com/embed/5zU1qNYR2cw?list=RD5zU1qNYR2cw"
                   title="YouTube video player"
                   frameborder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
