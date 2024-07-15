@@ -1,4 +1,4 @@
-import React from "react";
+
 import AppStoreImg from "../../assets/website/app_store.png";
 import PlayStoreImg from "../../assets/website/play_store.png";
 
