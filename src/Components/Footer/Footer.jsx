@@ -36,9 +36,9 @@ const Footer = () => {
               <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
                 VR World
               </h1>
-              <p className="text-sm">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Repellat dolor illum a aut iste expedita.
+              <p className="text-normal">
+                Thank you for being part of our virtual journey! 🌟 <br /> For support
+                or feedback, contact us at: <a href="#" className="font-medium">fahimnirjon21@gmail.com</a>
               </p>
               <br />
 
@@ -66,7 +66,7 @@ const Footer = () => {
                   <FaLinkedin className="text-3xl hover:text-primary duration-300" />
                 </a>
                 <a href="https://github.com/fahimnirjon">
-                 <FaGithub className="text-3xl hover:text-primary duration-300"></FaGithub>
+                  <FaGithub className="text-3xl hover:text-primary duration-300"></FaGithub>
                 </a>
               </div>
             </div>

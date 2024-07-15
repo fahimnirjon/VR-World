@@ -24,9 +24,12 @@ const Banner = ({ togglePlay }) => {
                 </span>
               </h1>
               <p data-aos="fade-up" data-aos-delay="500">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab
-                molestias quia exercitationem ex inventore labore beatae cumque
-                et quaerat voluptas?
+                Welcome to Our Virtual Reality World! <br /> Greetings,
+                explorers! <br />
+                 🌐✨ Step into a realm where imagination meets
+                reality. Whether you're here to embark on epic adventures,
+                explore fantastical landscapes, or simply unwind in a serene
+                environment, this VR world is designed just for you.
               </p>
               <div className="flex gap-6">
                 <button

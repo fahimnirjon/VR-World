@@ -19,10 +19,16 @@ const Banner2 = ({ togglePlay }) => {
                   Movies WITH OUR PLATFORM
                 </span>
               </h1>
-              <p data-aos="fade-up" data-aos-delay="500">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab
-                molestias quia exercitationem ex inventore labore beatae cumque
-                et quaerat voluptas?
+              <p className="font-normal" data-aos="fade-up" data-aos-delay="500">
+                What Awaits You: <br />
+                 🗺️ Vast Worlds: Traverse through breathtaking
+                terrains and uncover hidden secrets. <br /> 👾 Exciting Challenges:
+                Engage in thrilling quests and games that test your skills and
+                creativity. <br /> 🏡 Community Spaces: Connect with friends, meet new
+                people, and join vibrant communities. <br />
+                 💡 Endless Possibilities:
+                From immersive learning experiences to relaxing retreats, the
+                possibilities are endless.
               </p>
               <div className="flex gap-6">
                 <button

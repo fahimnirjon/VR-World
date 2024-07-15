@@ -15,10 +15,17 @@ const Hero = ({ togglePlay }) => {
                   GAMES WITH OUR PLATFORM
                 </span>
               </h1>
-              <p data-aos="fade-up" data-aos-delay="300">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab
-                molestias quia exercitationem ex inventore labore beatae cumque
-                et quaerat voluptas?
+              <p className="font-medium" data-aos="fade-up" data-aos-delay="300">
+                Welcome to Our VR World! <br /> Step into a realm of endless
+                possibilities! Whether you're here for adventure, relaxation, or
+                connecting with others, we've got something for everyone. <br />
+                 🗺️
+                Explore Vast Worlds <br />
+                 👾 Engage in Thrilling Challenges  <br />
+                 🏡 Join
+                Community Spaces <br /> Take your time, immerse yourself, and most
+                importantly, have fun! If you need help, our support team is
+                always here for you. <br /> Enjoy the adventure!
               </p>
               <div className="flex gap-6">
                 <button
