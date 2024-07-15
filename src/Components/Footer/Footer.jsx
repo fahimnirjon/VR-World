@@ -2,6 +2,7 @@ import {
   FaFacebook,
   FaInstagram,
   FaLinkedin,
+  FaGithub,
   FaLocationArrow,
   FaMobileAlt,
 } from "react-icons/fa";
@@ -33,7 +34,7 @@ const Footer = () => {
             {/* company Details */}
             <div className="py-8 px-4">
               <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
-                Metaverse
+                VR World
               </h1>
               <p className="text-sm">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
@@ -45,17 +46,17 @@ const Footer = () => {
               <div>
                 <div className="flex items-center gap-3">
                   <FaLocationArrow />
-                  <p>Noida, Uttar Pradesh</p>
+                  <p>Dhaka,Bangladesh</p>
                 </div>
                 <div className="flex items-center gap-3">
                   <FaMobileAlt />
-                  <p>+91 123456789</p>
+                  <p>+88-01713865204</p>
                 </div>
               </div>
 
               {/* social handle */}
               <div className="flex items-center gap-3 mt-6">
-                <a href="#">
+                <a href="https://www.facebook.com/fahimshahriar.nirjon/">
                   <FaFacebook className="text-3xl hover:text-primary duration-300" />
                 </a>
                 <a href="#">
@@ -63,6 +64,9 @@ const Footer = () => {
                 </a>
                 <a href="#">
                   <FaLinkedin className="text-3xl hover:text-primary duration-300" />
+                </a>
+                <a href="#">
+                 <FaGithub className="text-3xl hover:text-primary duration-300"></FaGithub>
                 </a>
               </div>
             </div>
