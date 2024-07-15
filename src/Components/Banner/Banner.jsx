@@ -1,4 +1,3 @@
-import React from "react";
 import BannerPng from "../../assets/banner1.png";
 import { BiPlayCircle } from "react-icons/bi";
 
