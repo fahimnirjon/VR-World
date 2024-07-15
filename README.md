@@ -1,2 +1,2 @@
 # VR World
-(site Link) >>>>>> https://vr-world-00.netlify.app/
+Live Link >>>>>> https://vr-world-00.netlify.app/
