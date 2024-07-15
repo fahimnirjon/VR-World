@@ -59,13 +59,13 @@ const Footer = () => {
                 <a href="https://www.facebook.com/fahimshahriar.nirjon/">
                   <FaFacebook className="text-3xl hover:text-primary duration-300" />
                 </a>
-                <a href="#">
+                <a href="https://www.instagram.com/ramos_the.beast">
                   <FaInstagram className="text-3xl hover:text-primary duration-300" />
                 </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/fahimnirjon04/">
                   <FaLinkedin className="text-3xl hover:text-primary duration-300" />
                 </a>
-                <a href="#">
+                <a href="https://github.com/fahimnirjon">
                  <FaGithub className="text-3xl hover:text-primary duration-300"></FaGithub>
                 </a>
               </div>
