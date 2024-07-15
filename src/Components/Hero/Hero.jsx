@@ -1,4 +1,3 @@
-import React from "react";
 import HeroPng from "../../assets/hero.png";
 import { BiPlayCircle } from "react-icons/bi";
 
